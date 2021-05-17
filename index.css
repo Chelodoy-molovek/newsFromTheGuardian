@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid black;
+    width: 450px;
+
+    margin: 0 auto;
+}
+.submit{
+    margin-left: 25%;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.button{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttons{
+    width: 150px;
+}
+h1{
+    margin-left: 30%
+}
+
+/* .news{
+    height: 350px;
+
+} */
